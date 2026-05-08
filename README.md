@@ -50,7 +50,7 @@ Prometheus · Grafana · Docker · Helm
 
 ### 📫 Contact
 📍 Location: **Beijing, China**  
-💬 GitHub: [github.com/ziop](https://github.com/wangpi26)
+💬 GitHub: [github.com/wangpi26](https://github.com/wangpi26)
 
 ---
 
